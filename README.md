@@ -1,1 +1,4 @@
-## Lance Suen
+## About
+
+Freelancer & Minimalist
+
