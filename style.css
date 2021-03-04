@@ -2,16 +2,16 @@
   
   /* Color scheme */
   
-  --textcolor: #121212;
+  --textcolor: #111111;
   --bgcolor: #fff;
-  --highlight: #2828b5;
+  --highlight: #0173eb;
 
 }
 
 @media (prefers-color-scheme: dark) {
   * {
     --textcolor: #dadada;
-    --bgcolor: #141414;
+    --bgcolor: #131313;
     --highlight: #ffc400;
   }
 }
