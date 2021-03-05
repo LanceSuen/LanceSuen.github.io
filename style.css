@@ -4,15 +4,15 @@
   
   --textcolor: #002b36;
   --bgcolor: #f8f3e6;
-  --highlight: #cb4b16;
+  --highlight: #cb3b16;
 
 }
 
 @media (prefers-color-scheme: dark) {
   * {
-    --textcolor: #dadada;
-    --bgcolor: #131313;
-    --highlight: #0173eb;
+    --textcolor: #839396;
+    --bgcolor: #002b36;
+    --highlight: #b58900;
   }
 }
 
